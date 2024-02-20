@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Karandeep, I am currenty works as Service Desk Technician and I looking to upgrade my skills to open up space fon new Opportunities. 
+### 👋 Hi, I’m Karandeep, I am currenty works as Service Desk Technician and I looking to upgrade my skills to open up space for new Opportunities. 
 - 👀 I’m interested in Cloud and Coding. 
 - 🌱 I’m currently learning Azure Cloud Platform, using SDKs.
 - 📫 How to reach me karandeep.tiwana@outlook.com
