@@ -1,7 +1,7 @@
-### 👋 Hi, I’m Karandeep, I am currenty working as Service Desk Technician and I looking to upgrade my skills to open up space for new Opportunities. 
+### 👋 Hi, I’m Karandeep, I am a Service Desk Technician and I am currently upgragding my skill and learning new things. 
 - 👀 I’m interested in Cloud and Coding. 
-- 🌱 I’m currently learning Azure Cloud Platform, using SDKs etc.
-- 📫 How to reach me karandeep.tiwana@outlook.com
+- 🌱 I’m currently learning Linux and Golang. 
+- 📫 Reach me via email karandeep.tiwana@outlook.com
 
 <!---
 tiwanakd/tiwanakd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
