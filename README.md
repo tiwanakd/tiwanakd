@@ -1,4 +1,4 @@
-👋 Hi, I’m Karandeep, I work as a Sevice Desk Technician. 
+👋 Hi, I’m Karandeep, I work as a Sevice Desk Technician and very passionate about Tech.
 - I am interested in Cloud Engineering and once again started my journey towards it.
 - Reach me via email karandeep.tiwana@outlook.com
 
